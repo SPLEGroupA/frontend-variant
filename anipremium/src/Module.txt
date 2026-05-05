@@ -1,0 +1,236 @@
+KatalogProduk
+	tes1 Table Produk Page
+	tes1 Add Produk Page
+
+
+	
+
+	
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+KeranjangBelanja
+	tes1 Keranjang Page
+	tes1 Add Item Page
+
+
+	
+
+	
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+AkunPengguna
+	tes1 Table Akun Page
+	tes1 Add Akun Page
+
+
+	
+
+	
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+Pembayaran
+	tes1 Table Pembayaran Page
+	tes1 Add Pembayaran Page
+	tes1 Detail Pembayaran Page
+
+
+	
+
+	
+	
+
+	
+	
+
+	
+
+
+
+
+
+
+ManajemenPesanan
+	tes1 Table Pesanan Page
+	tes1 Detail Pesanan Page
+
+
+	
+
+	
+	
+
+	
+
+	
+
+
+
+
+
+
+PreOrder
+	tes1 Table PreOrder Page
+	tes1 Add PreOrder Page
+
+
+	
+
+	
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+KatalogProdukEksklusif
+	tes1 Table Produk Eksklusif Page
+
+
+	
+
+
+
+
+
+
+
+
+KatalogProdukPreOwned
+	tes1 Table Produk PreOwned Page
+	tes1 Add Produk PreOwned Page
+
+
+	
+
+
+	
+
+
+
+
+
+
+PembayaranEWallet
+	tes1 Table Pembayaran EWallet Page
+	tes1 Add Pembayaran EWallet Page
+
+
+	
+
+
+	
+
+
+
+
+
+
+Wishlist
+	tes1 Wishlist Page
+	tes1 Add Wishlist Page
+
+
+	
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+ReviewRating
+	tes1 Table Produk With Rating Page
+	tes1 Add Review Page
+
+
+	
+
+
+	
+
+
+
+
+
+
+
+
+SistemMembership
+	tes1 Table Akun With Membership Page
+	tes1 Add Akun With Membership Page
+
+
+	
+
+
+	
+
+
+
+
+
+
+SistemPoinLoyalitas
+	tes1 Table Akun With Poin Page
+	tes1 Redeem Poin Page
+
+
+	
+
+
+	
+
+
+
+
+
+
+
